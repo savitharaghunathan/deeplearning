@@ -1,0 +1,2 @@
+semantic-kernel==0.3.10.dev0
+openai
